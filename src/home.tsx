@@ -13,11 +13,11 @@ function Home() {
     <Wrapper2>
       <Row justify="center" align="middle" className=" bg-intro">
         <Col md={24}>
-          <h1> Fun Qiuz Game</h1>
+          <h1> Fun Quiz Game</h1>
         </Col>
         <Col md={24}>
           <h3 className="p-intro">
-            Play amazing qiuz games that test your general knowlege of Science,
+            Play amazing quiz games that test your general knowlege of Science,
             Programming, Movies and lots more. Fun games that allow you have fun
             while learning new things at thesame time.
           </h3>
